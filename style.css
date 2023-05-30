@@ -1,0 +1,52 @@
+.heading{
+
+    width:100%;
+    text-align: left;
+}
+.heading h3{
+
+    display: inline;
+}
+.heading button{
+
+    float: right;
+    border: 3px ridge darkblue;
+}
+.Mario_Big{
+
+    width:100%;
+}
+.modal-dialog{
+
+    width: 90%;
+}
+.instruction_image{
+
+    display: inline-block;
+    width: 45%;
+}
+h4{
+
+    background-color: cornsilk;
+    line-height: 3;
+    margin: 0px;
+}
+#status , #start{
+
+font-size: 22px;
+}
+video{
+
+    background: url('game_console.png');
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
+h5{
+
+    background-color: rgb(255, 158, 102);
+    line-height: 3;
+    margin: 0px;
+}
+
+
